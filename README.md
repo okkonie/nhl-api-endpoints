@@ -4,15 +4,15 @@
 
 
 ### ✔️ Notes
- - **date: YYYY-MM-DD (2025-04-24)**
+**date: YYYY-MM-DD (2025-04-24)**
    
- - **year: current year in 4 digit (2025)**
+**year: 4 digit (2025)**
    
- - **season: season start year + season end year (20242025)**
+**season: start year + end year (20242025)**
    
- - **team: team abbreviation (COL, WSH...)**
+**team: team abbreviation (COL, WSH...)**
    
- - **game-type: 2 = regular season, 3 = playoff game**
+**game-type: 2 = regular season, 3 = playoff game**
 
 
 
@@ -101,7 +101,7 @@
 ### 🔹 Location & Postal Info
 
 -     https://api-web.nhle.com/v1/location
--     https://api-web.nhle.com//v1/postal-lookup/{postalCode}
+-     https://api-web.nhle.com/v1/postal-lookup/{postalCode}
 
 ### 🔹 Meta Info
 
@@ -121,7 +121,7 @@
 
 ### 🔹 PPT Replay
 
--     https://api-web.nhle.com//v1/ppt-replay/{game-id}/{event-number}
+-     https://api-web.nhle.com/v1/ppt-replay/{game-id}/{event-number}
 -     https://api-web.nhle.com//v1/ppt-replay/goal/{game-id}/{event-number}
 
 ### 🔹 Play-by-Play (WSC)
@@ -131,7 +131,7 @@
 
 ### 🔹 Partner Games
 
--     https://api-web.nhle.com//v1/partner-game/{country-code}/now
+-     https://api-web.nhle.com/v1/partner-game/{country-code}/now
 
 ### 🔹 Season Info
 
