@@ -1,7 +1,5 @@
 # nhl api documentation
 
-## 📌 Base URL: https://api-web.nhle.com/
-
 
 ### ✔️ Notes
 **date: YYYY-MM-DD (2025-04-24)**
@@ -14,7 +12,7 @@
    
 **game-type: 2 = regular season, 3 = playoff game**
 
-
+## 📌 Base URL: https://api-web.nhle.com/
 
 ### 🔹 Player Info
 
