@@ -1,6 +1,6 @@
 # nhl api documentation
 
-### 📌 Base URL: https://api-web.nhle.com/
+## 📌 Base URL: https://api-web.nhle.com/
 
 
 ### ✔️ Notes
@@ -13,6 +13,8 @@
  - **team: team abbreviation (COL, WSH...)**
    
  - **game-type: 2 = regular season, 3 = playoff game**
+
+
 
 ### 🔹 Player Info
 
