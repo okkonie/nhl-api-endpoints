@@ -1,6 +1,6 @@
 # nhl api documentation
 
-## 📌 Base URL: https://api-web.nhle.com/
+### 📌 Base URL: https://api-web.nhle.com/
 
 ### 🔹 Player Info
 
