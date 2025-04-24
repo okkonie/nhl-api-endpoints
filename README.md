@@ -2,7 +2,7 @@
 
 ## 📌 Base URL: https://api-web.nhle.com/
 
-###🔹 Player Info
+### 🔹 Player Info
 
 -     https://api-web.nhle.com/v1/player-spotlight
 -     https://api-web.nhle.com/v1/player/{player}/landing
@@ -10,17 +10,17 @@
 -     https://api-web.nhle.com/v1/player/{player}/game-log/{season}/{game-type}
 
 
-###🔹 Schedule
+### 🔹 Schedule
 
 -     https://api-web.nhle.com/v1/schedule/now
 -     https://api-web.nhle.com/v1/schedule/{date}
 
-###🔹 Score
+### 🔹 Score
 
 -     https://api-web.nhle.com/v1/score/now
 -     https://api-web.nhle.com/v1/score/{date}
 
-###🔹 Standings
+### 🔹 Standings
 
 -     https://api-web.nhle.com/v1/standings-season
 -     https://api-web.nhle.com/v1/standings/now
