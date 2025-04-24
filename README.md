@@ -26,29 +26,29 @@
 -     https://api-web.nhle.com/v1/standings/now
 -     https://api-web.nhle.com/v1/standings/{date}
 
-###🔹 Skater Stats
+### 🔹 Skater Stats
 
 -     https://api-web.nhle.com/v1/skater-stats-leaders/current
 -     https://api-web.nhle.com/v1/skater-stats-leaders/{season}/{game-type}
 
-###🔹 Goalie Stats
+### 🔹 Goalie Stats
 
 -     https://api-web.nhle.com/v1/goalie-stats-leaders/current
 -     https://api-web.nhle.com/v1/goalie-stats-leaders/{season}/{game-type}
 
-###🔹 Team Info
+### 🔹 Team Info
 
 -     https://api-web.nhle.com/v1/club-stats/{team}/now
 -     https://api-web.nhle.com/v1/club-stats/{team}/{season}/{game-type}
 -     https://api-web.nhle.com/v1/club-stats-season/{team}
 
-###🔹 Roster
+### 🔹 Roster
 
 -     https://api-web.nhle.com/v1/roster/{team}/current
 -     https://api-web.nhle.com/v1/roster/{team}/{season}
 -     https://api-web.nhle.com/v1/roster-season/{team}
 
-###🔹 Schedule (Team-specific)
+### 🔹 Schedule (Team-specific)
 
 -     https://api-web.nhle.com/v1/club-schedule/{team}/month/now
 -     https://api-web.nhle.com/v1/club-schedule/{team}/month/{month}
@@ -57,20 +57,20 @@
 -     https://api-web.nhle.com/v1/club-schedule-season/{team}/now
 -     https://api-web.nhle.com/v1/club-schedule-season/{team}/{season}
 
-###🔹 Gamecenter / Game Details
+### 🔹 Gamecenter / Game Details
 
 -     https://api-web.nhle.com/v1/gamecenter/{game-id}/landing
 -     https://api-web.nhle.com/v1/gamecenter/{game-id}/boxscore
 -     https://api-web.nhle.com/v1/gamecenter/{game-id}/play-by-play
 -     https://api-web.nhle.com/v1/gamecenter/{game-id}/right-rail
 
-###🔹 Scoreboard
+### 🔹 Scoreboard
 
 -     https://api-web.nhle.com/v1/scoreboard/now
 -     https://api-web.nhle.com/v1/scoreboard/{date}
 -     https://api-web.nhle.com/v1/scoreboard/{team}/now
 
-###🔹 Draft
+### 🔹 Draft
 
 -     https://api-web.nhle.com/v1/draft-tracker/picks/now
 -     https://api-web.nhle.com/v1/draft/picks/now
@@ -80,50 +80,50 @@
 -     https://api-web.nhle.com/v1/draft/rankings/{year}/{category}
 -     https://api-web.nhle.com/v1/prospects/{team}
 
-###🔹 Where to Watch
+### 🔹 Where to Watch
 
 -     https://api-web.nhle.com/v1/where-to-watch?include={string}
-
-###🔹 Location & Postal Info
+ 
+### 🔹 Location & Postal Info
 
 -     https://api-web.nhle.com/v1/location
 -     https://api-web.nhle.com//v1/postal-lookup/{postalCode}
 
-###🔹 Meta Info
+### 🔹 Meta Info
 
 -     https://api-web.nhle.com/v1/meta?players=&teams=&seasonStates=
 -     https://api-web.nhle.com/v1/meta/playoff-series/{year}/{series_letter}
 -     https://api-web.nhle.com/v1/meta/game/{game-id}
 
-###🔹 Playoffs
+### 🔹 Playoffs
 
 -     https://api-web.nhle.com/v1/playoff-series/carousel/{season}
 -     https://api-web.nhle.com/v1/playoff-bracket/{year}
 
-###🔹 TV Schedule
+### 🔹 TV Schedule
 
 -     https://api-web.nhle.com/v1/network/tv-schedule/now
 -     https://api-web.nhle.com/v1/network/tv-schedule/{date}
 
-###🔹 PPT Replay
+### 🔹 PPT Replay
 
 -     https://api-web.nhle.com//v1/ppt-replay/{game-id}/{event-number}
 -     https://api-web.nhle.com//v1/ppt-replay/goal/{game-id}/{event-number}
 
-###🔹 Play-by-Play (WSC)
+### 🔹 Play-by-Play (WSC)
 
 -     https://api-web.nhle.com/v1/wsc/play-by-play/{game-id}
 -     https://api-web.nhle.com/v1/wsc/game-story/{game-id}
 
-###🔹 Partner Games
+### 🔹 Partner Games
 
 -     https://api-web.nhle.com//v1/partner-game/{country-code}/now
 
-###🔹 Season Info
+### 🔹 Season Info
 
 -     https://api-web.nhle.com/v1/season
 
-###🔹 Schedule Calendar
+### 🔹 Schedule Calendar
 
 -     https://api-web.nhle.com/v1/schedule-calendar/now
 -     https://api-web.nhle.com/v1/schedule-calendar/{date}
