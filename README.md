@@ -3,7 +3,7 @@
 ### 📌 Base URL: https://api-web.nhle.com/
 
 
-### Notes
+### ✔️ Notes
 - date: YYYY-MM-DD (2025-04-24)
 - year: current year in 4 digit (2025)
 - season: season start year + season end year (20242025)
