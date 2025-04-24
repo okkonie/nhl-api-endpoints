@@ -2,6 +2,15 @@
 
 ### 📌 Base URL: https://api-web.nhle.com/
 
+
+### Notes
+- date: YYYY-MM-DD (2025-04-24)
+- year: current year in 4 digit (2025)
+- season: season start year + season end year (20242025)
+- team: team abbreviation (COL, WSH...)
+- game-type: 2 = regular season & 3 = playoff game
+
+
 ### 🔹 Player Info
 
 -     https://api-web.nhle.com/v1/player-spotlight
