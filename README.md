@@ -1,29 +1,29 @@
-# nhl-api-doc
+# nhl api documentation
 
 📌 Base URL: https://api-web.nhle.com/
 
 🔹 Player Info
 
-https://api-web.nhle.com/v1/player-spotlight
-
-https://api-web.nhle.com/v1/player/{player}/landing
-
-https://api-web.nhle.com/v1/player/{player}/game-log/now
-
-https://api-web.nhle.com/v1/player/{player}/game-log/{season}/{game-type}
+    https://api-web.nhle.com/v1/player-spotlight
+    
+    https://api-web.nhle.com/v1/player/{player}/landing
+    
+    https://api-web.nhle.com/v1/player/{player}/game-log/now
+    
+    https://api-web.nhle.com/v1/player/{player}/game-log/{season}/{game-type}
 
 
 🔹 Schedule
 
-https://api-web.nhle.com/v1/schedule/now
-
-https://api-web.nhle.com/v1/schedule/{date}
+    https://api-web.nhle.com/v1/schedule/now
+    
+    https://api-web.nhle.com/v1/schedule/{date}
 
 🔹 Score
 
-https://api-web.nhle.com/v1/score/now
+    https://api-web.nhle.com/v1/score/now
 
-https://api-web.nhle.com/v1/score/{date}
+    https://api-web.nhle.com/v1/score/{date}
 
 🔹 Standings
 
