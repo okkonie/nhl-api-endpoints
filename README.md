@@ -1,12 +1,12 @@
 # nhl-api-doc
+
+📌 Base URL: https://api-web.nhle.com/
+
 🔹 Player Info
 
     v1/player-spotlight
-
     v1/player/{player}/landing
-
     v1/player/{player}/game-log/now
-
     v1/player/{player}/game-log/{season}/{game-type}
 
 🔹 Schedule
