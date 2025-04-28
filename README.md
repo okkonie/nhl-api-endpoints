@@ -1,4 +1,4 @@
-# nhl api documentation
+# nhl api endpoints
 
 ### 📌 Base URL: https://api-web.nhle.com/
 
