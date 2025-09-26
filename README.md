@@ -2,6 +2,8 @@
 
 ### 📌 Base URL: https://api-web.nhle.com/
 
+Every endpoint from https://api-web.nhle.com/application.wadl presented prettier
+
 | parameter | format | e.g. |
 | :--- | :--- | :--- |
 | date | YYYY-MM-DD | 2025-04-24 |
